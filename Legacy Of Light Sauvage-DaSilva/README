@@ -1,0 +1,7 @@
+Pour une expérience et une jouabilité plus satisfaisantes, lancez le jeu sur PyCharm et non sur Thonny.
+(Les deux fonctionnent, seulement le jeu a été fait sure pycharm pour pycharm).
+Les deux images (logo.png et yharnam.png) sont fournies dans le dossier, si elles n'apparaissent pas, veuillez contacter
+les développeurs. Les images DOIVENT garder leurs noms d'origine.
+La liste de bibliothèque suivante a été utilisée dans le programme, il est donc nécessaire de les installer
+si elles ne le sont pas déjà.
+
